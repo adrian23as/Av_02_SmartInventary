@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594267422472",
+    "project_id": "inventario-56401",
+    "storage_bucket": "inventario-56401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594267422472:android:adbb214f759de1d24b36bd",
+        "android_client_info": {
+          "package_name": "pe.pcs.firestorebasicoyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeR47zjwYwiaTXIfgxUPWH9HqiB9y8i7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

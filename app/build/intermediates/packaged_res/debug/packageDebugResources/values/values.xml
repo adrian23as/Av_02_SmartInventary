@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#ff7071</color>
+    <color name="black">#FF000000</color>
+    <color name="grey">#d2dbe0</color>
+    <color name="primary">#1D3557</color>
+    <color name="primaryDark">#1D3557</color>
+    <color name="primaryLigth">#457B9D</color>
+    <color name="secondary">#E63946</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SmartInventory</string>
+    <string name="gcm_defaultSenderId" translatable="false">594267422472</string>
+    <string name="google_api_key" translatable="false">AIzaSyCeR47zjwYwiaTXIfgxUPWH9HqiB9y8i7E</string>
+    <string name="google_app_id" translatable="false">1:594267422472:android:adbb214f759de1d24b36bd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCeR47zjwYwiaTXIfgxUPWH9HqiB9y8i7E</string>
+    <string name="google_storage_bucket" translatable="false">inventario-56401.appspot.com</string>
+    <string name="project_id" translatable="false">inventario-56401</string>
+    <style name="Base.Theme.SmartInventory" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+    <style name="Theme.SmartInventory" parent="Base.Theme.SmartInventory"/>
+</resources>

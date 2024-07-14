@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "pe.pcs.firestorebasicoyt.app-mergeDebugResources-37:/layout/activity_operacion_producto.xml",
+        "source": "pe.pcs.firestorebasicoyt.app-main-40:/layout/activity_operacion_producto.xml"
+    },
+    {
+        "merged": "pe.pcs.firestorebasicoyt.app-mergeDebugResources-37:/layout/layout_toolbar.xml",
+        "source": "pe.pcs.firestorebasicoyt.app-main-40:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "pe.pcs.firestorebasicoyt.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "pe.pcs.firestorebasicoyt.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "pe.pcs.firestorebasicoyt.app-mergeDebugResources-37:/layout/items_producto.xml",
+        "source": "pe.pcs.firestorebasicoyt.app-main-40:/layout/items_producto.xml"
+    }
+]

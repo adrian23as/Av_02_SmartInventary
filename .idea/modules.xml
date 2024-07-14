@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Avance02_SmartInventory.iml" filepath="$PROJECT_DIR$/.idea/modules/Avance02_SmartInventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Avance02_SmartInventory.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Avance02_SmartInventory.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Avance02_SmartInventory.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Avance02_SmartInventory.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Avance02_SmartInventory.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Avance02_SmartInventory.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Avance02_SmartInventory.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Avance02_SmartInventory.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
